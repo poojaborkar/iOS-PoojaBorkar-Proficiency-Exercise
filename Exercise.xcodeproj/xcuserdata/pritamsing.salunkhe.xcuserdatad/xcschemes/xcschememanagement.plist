@@ -7,7 +7,30 @@
 		<key>Exercise.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>5</integer>
+		</dict>
+		<key>ExerciseTests.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>6</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>6197B76424B0A5BF0016BCA5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6197B77A24B0A5C90016BCA5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6197B78524B0A5CA0016BCA5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
